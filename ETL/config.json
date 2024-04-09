@@ -1,0 +1,14 @@
+{
+    "auth_key": "", # key from Vital, delete this comment when used
+    "user_id": "", # user id from Vital,delete this commen when used
+    "functions": [
+        "blood_oxygen", "blood_pressure", "caffeine", "cholesterol", "glucose",
+        "heartrate", "hrv", "hypnogram", "igg", "ige", "mindfulness_minutes",
+        "respiratory_rate", "water", "calories_active", "calories_basal",
+        "distance", "floors_climbed", "steps"
+    ],
+    "start_date": "2024-01-20",
+    "end_date": "2024-02-15",
+    "directory": "./vital_csvs",
+    "uri":"" # url placeholder, delete this comment when used
+}

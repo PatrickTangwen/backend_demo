@@ -1,0 +1,6 @@
+numpy
+pandas
+vital
+tqdm
+pymongo 
+dnspython
