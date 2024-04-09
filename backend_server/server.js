@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const uri =
-"mongodb+srv://med-dash-deploy:passwordisGood@cluster0.ludjpq9.mongodb.net/?retryWrites=true&w=majority";
+""; // placeholder for mongodb uri
 
 const client = new MongoClient(uri, { useUnifiedTopology: true });
 
