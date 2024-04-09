@@ -11,5 +11,9 @@ Once you’ve created your account on MongoDB, create collections with the follo
 ```pip install -r requirements.txt```
 
 3. Run the run.py to download csv files from vital:<br>
-```python run.py```
+```python run.py```<br>
+
+To build the backend server, please refer to the backend_server directory.
+
+
 
