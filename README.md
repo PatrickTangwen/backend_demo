@@ -5,9 +5,7 @@ Once you’ve created your account on MongoDB, create collections with the follo
 <br>
 
 ## Instructions for Running ETL Program(Program used to upload data to MongoDB database)
-1. Navigate to the ETL directory by typing the following command:<br>
-```cd med-dash-integration```<br>
-```cd vital_data_etl```<br>
+1. Navigate to the ETL directory<br>
 
 2. Install any necessary packages:<br>
 ```pip install -r requirements.txt```
@@ -15,4 +13,3 @@ Once you’ve created your account on MongoDB, create collections with the follo
 3. Run the run.py to download csv files from vital:<br>
 ```python run.py```
 
-4. You should be able to find all csv files in folder called "vital_csvs"
